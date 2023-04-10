@@ -6,7 +6,12 @@ public class Sample {
 
 	@Test
 	public void sampleTest1() {
-		System.out.println("Sample Test1");
+		System.out.println("Sample ");
+	}
+	
+	@Test
+	public void SampleTest2() {
+		System.out.println("Samppe Test2");
 	}
 	
 }
