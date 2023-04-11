@@ -13,5 +13,9 @@ public class Sample {
 	public void SampleTest2() {
 		System.out.println("Samppe Test2");
 	}
+	@Test
+	public void xyzTask () {
+		System.out.println("new task");
+	}
 	
 }
