@@ -17,5 +17,9 @@ public class Sample {
 	public void xyzTask () {
 		System.out.println("new task");
 	}
+	@Test
+	public void ABC () {
+		System.out.println("new test added by Swapnil");
+	}
 	
 }
