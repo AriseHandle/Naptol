@@ -18,4 +18,9 @@ public class Sample {
 		System.out.println("new task");
 	}
 	
+	@Test
+	public void hello() {
+		System.out.println("Hello Java");
+	}
+	
 }
