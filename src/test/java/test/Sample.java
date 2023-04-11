@@ -14,4 +14,9 @@ public class Sample {
 		System.out.println("Samppe Test2");
 	}
 	
+	@Test
+	public void hello() {
+		System.out.println("Hello Java");
+	}
+	
 }
