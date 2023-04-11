@@ -17,5 +17,9 @@ public class Sample {
 	public void xyzTask () {
 		System.out.println("new task");
 	}
-	
+
+	@Test 
+	public void newTask () {
+		System.out.println("task xyz-1");
+	}
 }
